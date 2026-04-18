@@ -28,12 +28,14 @@ This repository contains Verilog modules I've written while learning digital des
 - **Simulation:** Xilinx Vivado Behavioral Simulation
 - **Editor:** Notepad++
 
-## Structure
+## Structure 
+
+```
 verilog-practice/
 ├── combinational/ # Combinational logic modules
 ├── sequential/ # Sequential logic modules
 └── fsm/ # Finite state machines
-
+```
 
 ## Learning Objectives
 
