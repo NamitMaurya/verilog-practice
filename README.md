@@ -19,8 +19,9 @@ This repository contains Verilog modules I've written while learning digital des
 - Up/down counter
 
 ### Finite State Machines
-- Traffic light controller
-- 3-state FSM with timing control
+- Traffic light controller (3-state with timing)
+- Sequence detector (101 pattern)
+- Vending machine ($5/$10 coins, $15 item)
 
 ## Tools Used
 
